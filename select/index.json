@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fam☆Fam☆Time!",
+  "base_artist": "dokuzuhonsha",
+  "createdAt": "2026-03-25T20:22:33.133086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fam Fam Time!",
+      "artist": "dokuzuhonsha",
+      "has_synced": true,
+      "path": "select/01_Fam_Fam_Time!_dokuzuhonsha.lrc"
+    }
+  ]
+}
